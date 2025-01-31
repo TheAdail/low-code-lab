@@ -22,7 +22,8 @@ To use this repo you must have an account and environment in the OutSystems plat
     * Copy the file ```example.env``` to ```.env``` and replace the URL for ```os-env``` with the URL for your environment, created when you signed up.
 6. If you do not want to develop your own applications, then in Service Studio, after logging in into your environment, use the menu option "Environment > Open Files..." to import both applications from the ```/os-apps``` folder.
     * If you are not familiar with web development in OutSystems, it is strongly recommended you watch at least up to the "Basic Screen Development I" module in that training course.
-    ![OutSystems Web Dev Course Outline](images\OutSystemsWebDevCourseOutline.jpg)
+    
+    ![OutSystems Web Dev Course Outline](images/OutSystemsWebDevCourseOutline.jpg)
 
 ## Testing with BDD Frameworks
 
